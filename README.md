@@ -11,7 +11,7 @@ Ubah Data
 Hapus Data
 Cari Data
 Tampilkan Data
-![ing](ss/FC5.png)
+![ing](ss/FC5.jpg)
 
 ### source code program python menggunakan dictionary
 ![ing](ss/input1.png)
